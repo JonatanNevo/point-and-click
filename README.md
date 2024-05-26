@@ -1,3 +1,3 @@
-# Vermis
+# Point and click 
 
-Developed with Unreal Engine 5
+A first person point and click game inspired by vermis
